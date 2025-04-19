@@ -1,0 +1,16 @@
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\bin\Debug\PositionSizeCalculator.exe.config
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\bin\Debug\PositionSizeCalculator.exe
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\bin\Debug\PositionSizeCalculator.pdb
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator.csproj.AssemblyReference.cache
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator.csproj.SuggestedBindingRedirects.cache
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\MainWindow.g.cs
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\App.g.cs
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator_MarkupCompile.cache
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator_MarkupCompile.lref
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\MainWindow.baml
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator.g.resources
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator.Properties.Resources.resources
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator.csproj.GenerateResource.cache
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator.csproj.CoreCompileInputs.cache
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator.exe
+D:\Уроки\PositionSizeCalculator\PositionSizeCalculator\obj\Debug\PositionSizeCalculator.pdb
