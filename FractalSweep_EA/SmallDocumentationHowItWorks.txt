@@ -1,0 +1,50 @@
+======FRACTAL_SWEEP_EA======
+
+That one expert advisor is related to the idea of fractals in trading.
+It openes position buy/sell in case which fractal has been swept high/low.
+If you don`t know what fractals is:
+Fractal is the highest/lowest candle among every 5 candles
+To say it less complicated it just local high or low.
+So when our previous candle sweeps that one fractal => we open position.
+
+If price sweeps low => we buying
+If price sweeps high => we selling
+
+Parameters:
+
+RiskRatio % - risk per trade (1% - 1% from your acc balance)
+
+MagicNumber - magic number for position list
+
+_slType - Fixed, Structure, Trailing
+
+Fixed:
+
+Take-Profit size(pips) - size of your tp in pips
+
+Stop-Loss size(pips) - size of your sl in pips
+
+//Fixed stoploss represents default stop-loss you setting in trade properties when you opening the position
+
+Structure:
+
+SlLookBackBars - how many bars back algorithm should look to find where place stop-loss
+
+TpMultiplier - responsible for RR of your trade, for instance script finded where to put stop-loss than it multiplies size of stop-loss by TpMultiplier to find where to put take-profit
+
+//Structure stop-loss finds structure high/low and puts stop-loss right on it.
+
+Trailing:
+
+StartSlSize(pips) - fixed stop-loss size
+
+//Trailing stop-loss moves in the direction of your position (long, short) until it not excecuted 
+
+Fractal forming period - i guess it easy to understand what does it mean. I will develop it in future though you can change your fractal forming period (Nowadays it only 5)
+
+DrawFractals - just draws fractals on the chart
+
+MaxFractalsDrawn - usually you need to put around 700, according to on what amount of data you backtesting
+
+
+

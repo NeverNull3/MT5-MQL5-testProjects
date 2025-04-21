@@ -1,0 +1,41 @@
+FractalSweep Optimisation report 21.04.2025.
+
+Best attempts:
+
+Profit: 301% per year
+Trade count: 254
+Drawdown: 30%
+
+Parameters:
+Riskratio - 3%
+_slType - Fixed
+TpSize - 260 pips
+SlSize - 260 pips
+
+Profit: 220% per year
+Trade count: 254
+Drawdown: 21.1%
+
+Parameters:
+Riskratio - 2%
+_slType - Fixed
+TpSize - 260 pips
+SlSize - 260 pips
+
+
+Profit: 152% per year
+Trade count: 240
+Drawdown: 11.1%
+
+Parameters:
+Riskratio - 1%
+_slType - Fixed
+TpSize - 260 pips
+SlSize - 260 pips
+
+MaxBalance: 46595$ - 465% per year
+But DrawDawn is 53%
+
+The profit increases with the riskratio parameter so that doesn`t mean something wow.
+
+The least profitable and useful was trailing stop loss parameter.
