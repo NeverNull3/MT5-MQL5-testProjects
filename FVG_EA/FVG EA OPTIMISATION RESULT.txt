@@ -1,0 +1,9 @@
+Best parameters:
+
+TpPercent: 2.0
+SlPercent: 1.0
+SLLookBackBars: 9
+
+These parameters gives us 16% of profit per year on data backtest.
+
+I don`t see any sense in backtesting this EA on more data because it give so small profit values.
